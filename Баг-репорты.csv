@@ -61,7 +61,7 @@ https://test-form.nmtechnologies.org,,,,,,,,,,,
 4. Phone: +79999999988887
 ","1. Открыть сайт https://test-form.nmtechnologies.org
 2. Ввести в поля значения из тестовых данных
-3. Нажать кнопку ""Register""",Система отображает ошибку 400 Bad Request,"Система отображает ошибку 500 при введении в поле ""Fist name"" строки количеством 21 символ (см. приложение)",https://drive.google.com/drive/folders/1V5e20ncJaGs3W9pAlLH3j1CFzyXe4X1u,
+3. Нажать кнопку ""Register""",Система отображает ошибку 400 Bad Request,"Система отображает ошибку 500 при введении в поле ""Fist name"" строки количеством 21 символ (см. приложение)",https://drive.google.com/file/d/1h3W7MlOv8triLezq2CrJ2yJEPc5hfmAP/view?usp=sharing,
 https://fix-online.sbis.ru,,,,,,,,,,,
 11,"Windows 10 Pro, Google Chrome 102.0.5005.63
 разрешение экрана 1920*1080",Высокий,"Новый сотрудник создается без заполнения обязательного поля ""Фамилия""",,"1. Открыть сайт https://fix-online.sbis.ru                                                              
